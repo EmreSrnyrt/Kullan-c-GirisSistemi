@@ -14,11 +14,11 @@ namespace ConsoleApp1
         {
             List<kullanici> kullanicis = new List<kullanici>()
             {
-                new kullanici() {Username = "qqq", Password = "111", Userid = 1, Ad = "murat", Soyad = "gun", TC = 22345678011, Posta = "abcdef@gmail.com" },
-                new kullanici() {Username = "www", Password = "222", Userid = 2, Ad = "murat1", Soyad = "gun", TC = 22345678011, Posta = "abcdef@gmail.com" },
-                new kullanici() {Username = "aaa", Password = "333", Userid = 3, Ad = "murat2", Soyad = "gun", TC = 22345678011, Posta = "abcdef@gmail.com" },
-                new kullanici() {Username = "add", Password = "444", Userid = 4, Ad = "murat3", Soyad = "gun", TC = 22345678011, Posta = "abcdef@gmail.com" },
-                new kullanici() {Username = "abc", Password = "555", Userid = 5, Ad = "murat4", Soyad = "gun", TC = 22345678011, Posta = "abcdef@gmail.com" }
+                new kullanici() {Username = "qqq", Password = "111", Userid = 1, Ad = "emre", Soyad = "srn", TC =  11111111111, Posta = "abcdef@gmail.com" },
+                new kullanici() {Username = "www", Password = "222", Userid = 2, Ad = "emre1", Soyad = "srn", TC = 22222222222, Posta = "abcdef@gmail.com" },
+                new kullanici() {Username = "aaa", Password = "333", Userid = 3, Ad = "emre2", Soyad = "srn", TC = 33333333333, Posta = "abcdef@gmail.com" },
+                new kullanici() {Username = "add", Password = "444", Userid = 4, Ad = "emre3", Soyad = "srn", TC = 44444444444, Posta = "abcdef@gmail.com" },
+                new kullanici() {Username = "abc", Password = "555", Userid = 5, Ad = "emre4", Soyad = "srn", TC = 55555555555, Posta = "abcdef@gmail.com" }
             };
             int hak = 3;
         giris:
